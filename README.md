@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on <b> JAVA PROJECTS <b>  
+👯 I’m looking to collaborate on  
+🤝 I’m looking for help with  
+🌱 I’m currently learning  <b> JAVA / JEE / Spring / Spring boot / Angular <b>    
+💬 Ask me about  
+⚡ Fun fact
 
 
 ## 🌐 Socials:
