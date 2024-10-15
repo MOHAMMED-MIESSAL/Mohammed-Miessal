@@ -1,10 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on <b> JAVA PROJECTS <b>  
+🔭 I’m currently working on <b> JAVA PROJECTS </b>  
+<!--
 👯 I’m looking to collaborate on  
 🤝 I’m looking for help with  
-🌱 I’m currently learning  <b> JAVA / JEE / Spring / Spring boot / Angular <b>    
+-->
+🌱 I’m currently learning  <b> JAVA / JEE / Spring / Spring boot / Angular </b>    
+<!--
 💬 Ask me about  
-⚡ Fun fact
+-->
+⚡ Fun fact <b> I'm a YouCode - UM6P Student </b>  
 
 
 ## 🌐 Socials:
